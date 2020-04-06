@@ -16,7 +16,7 @@ In this case, it was put in an astable configuration.
 ![alt text](https://raw.githubusercontent.com/UmVitor/Oscilador_555/master/555.png)
 
 ## Code
-This algorithm calculates the resistors and capacitors (Commercial) that will be used in the above circuit. RA , RB and RC.
+This algorithm calculates the resistors and capacitors (Commercial) that will be used in the above circuit. RA , RB and C.
 Just put the desired frequency in: frequencia (variable in the end of code).
 
 Feel free to contribute to this project
