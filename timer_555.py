@@ -1,7 +1,5 @@
-import random
-
-# def freq(RA, RB, C):
-#     return 1.44/((RA + (2*RB)) * C)
+#Python version: 3.8.2
+#Author: Vitor Barreto.
 
 def converte_res(r):
     if(1000 <= r <= 999999):
@@ -58,8 +56,6 @@ def param_freq(F, duty=0):
                                 lista.clear()
     return matriz                            
 
-
-#print("A frequencia serah {:.2f}".format(freq(1e3 , 82e3, 10e-9 )))
 frequencia = 2500
 duty_cycle = 0.5
 res = param_freq(frequencia, duty_cycle)
