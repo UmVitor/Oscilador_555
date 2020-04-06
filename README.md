@@ -19,4 +19,4 @@ In this case, it was put in an astable configuration.
 This algorithm calculates the resistors and capacitors (Commercial) that will be used in the above circuit. RA , RB and C.
 Just put the desired frequency in: frequencia (variable in the end of code).
 
-Feel free to contribute to this project
+Feel free to contribute to this project.
